@@ -3,10 +3,6 @@
 
 **Author**: SHAILESH_DHAMA
 
-### Notebook 1: Learning Family of U-nets.ipynb
-
-### Final Notebook : Image Segmentation of Cell Membranes using U-net.ipynb
-
 ## About the Internship Objectives:
 
 -> Dataset provided by the Supervisor.
@@ -19,6 +15,10 @@
 
 --> Internship included intensive learning of machine learning,deep learning modules and the extensive thoughtful implementation of creating           different models,trying different activation functions for tuning the models.
 
+#### Notebook 1: Learning Family of U-nets.ipynb
+
+#### Final Notebook : Image Segmentation of Cell Membranes using U-net.ipynb
+
 ### LIBRARIES:
 
     1.Numpy
@@ -30,7 +30,7 @@
     
 ## Steps:
 
-**** Image Segmentation of Cell Membranes using U-net**** 
+##### Image Segmentation of Cell Membranes using U-net
 
 1.Load required libraries
 2.Defining functions and loading required data.
@@ -47,7 +47,7 @@
 8.Trying Avgpool instead of Maxpool
 (***Reason: Max pooling extracts the most important features like edges whereas, average pooling extracts features so smoothly)
 
-**** Learning Family of U-nets:****
+##### Learning Family of U-nets:
 - Modelling of UNet,Wide-UNet and Nested-UNet.
 
 ## RESULTS:
