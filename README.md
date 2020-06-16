@@ -65,13 +65,13 @@
 ![Learning Curve](./NCBS_4.png)
 
 #### Standard U-Net
-![U-Net](./NCBS_7.png)
+![U-Net](./NCBS_7.PNG)
 
 #### Wide U-Net
-![W-UNet](./NCBS_8.png)
+![W-UNet](./NCBS_8.PNG)
 
 #### Nested U-Net
-![Nested-UNet](./NCBS_9.png)
+![Nested-UNet](./NCBS_9.PNG)
 
 #### Final_result
 ![Final_result](./NCBS_6.png)
